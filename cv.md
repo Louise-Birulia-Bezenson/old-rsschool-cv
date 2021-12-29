@@ -1,5 +1,6 @@
 
 # Curriculum vitae
+![Photo](Photo.jpg)
 
 **Name:** Louisa Birulia-Bezenson <br/>
 **Phone namber:** +37529177012<br/>
@@ -23,7 +24,7 @@ return a * b;
 
 * **Рroject.** Сreated my own CV using markdown markup
 * **Experience.** Working with Git and GitHub. Using markdown markup. Basic layout skills. Using the rs app to submit and check tasks.
-* **CV link**
+* [**CV link**](https://github.com/Louise-Birulia-Bezenson/rsschool-cv/blob/gh-pages/cv.md)
 
 ## Education
 **Higher education**<br/>
