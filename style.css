@@ -1,0 +1,46 @@
+.header_box{
+     display: flex;
+     justify-content: flex-start;
+     background-image: url(assets/phon.jpeg);
+     background-size:cover;
+}
+.header_box_photo{
+    padding: 25px;
+}
+
+.header_photo{
+    width: 180px;
+    border-radius: 50%;
+}
+h1{
+    font-family: Lucida Console, Courier, monospace;
+    font-weight: bold;
+    font-size: 36px;   
+}
+h2{
+    font-family: Lucida Console, Courier, monospace;
+    font-weight: bold;
+    font-size: 18px;
+}
+p, ul, a{
+    font-family: Lucida Console, Courier, monospace;
+    font-size: 16px; 
+}
+main{
+    background-color: #f8f8f8;
+}
+.footer_box{
+    display: flex;
+     justify-content: space-around;
+     align-items:center;
+     background-image: url(assets/phon.jpeg);
+     background-size:cover;
+}
+.footer_logo{
+    width: 170px;  
+}
+nav{
+    display: flex;
+     justify-content: space-around;
+     
+}
